@@ -1,7 +1,9 @@
 ---
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 ## 2020
 
 * <b>[Viral Pneumonia Screening on Chest X-rays Using Confidence-Aware Anomaly Detection](https://ieeexplore.ieee.org/document/9272749)</b>. <br>
