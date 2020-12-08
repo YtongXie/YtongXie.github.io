@@ -12,11 +12,11 @@ author_profile: true
 * <b>[A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification](https://ieeexplore.ieee.org/document/8990108)</b>. <br>
 <b>Yutong Xie*</b>, Jianpeng Zhang*, Yong Xia, and Chunhua Shen <br> <i>IEEE Transactions on Medical Imaging (**IEEE-TMI**)</i>, vol. 39, no. 7, pp. 2482-2493, July 2020. [[Code]](https://github.com/YtongXie/MB-DCNN)<br> 
 
-* <b>[Viral Pneumonia Screening on Chest X-rays Using Confidence-Aware Anomaly Detection](https://ieeexplore.ieee.org/document/9272749)</b>. <br>
-Jianpeng Zhang*, <b>Yutong Xie*</b>, Guansong Pang, Zhibin Liao, Johan Verjans, Wenxing Li, Zongji Sun, Jian He, Yi Li, Chunhua Shen, Yong Xia <br> <i>IEEE Transactions on Medical Imaging (**IEEE-TMI**)</i>, early assess, 2020.<br>
-
 * <b>[Inter-slice Context Residual Learning for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/document/9245569)</b>. <br>
 Jianpeng Zhang, <b>Yutong Xie</b>, Yan Wang, and Yong Xia <br> <i>IEEE Transactions on Medical Imaging (**IEEE-TMI**)</i>, early assess, 2020. [[Code]](https://github.com/jianpengz/ConResNet)<br>
+
+* <b>[Viral Pneumonia Screening on Chest X-rays Using Confidence-Aware Anomaly Detection](https://ieeexplore.ieee.org/document/9272749)</b>. <br>
+Jianpeng Zhang*, <b>Yutong Xie*</b>, Guansong Pang, Zhibin Liao, Johan Verjans, Wenxing Li, Zongji Sun, Jian He, Yi Li, Chunhua Shen, Yong Xia <br> <i>IEEE Transactions on Medical Imaging (**IEEE-TMI**)</i>, early assess, 2020.<br>
 
 * <b>[Pairwise Relation Learning for Semi-supervised Gland Segmentation](https://link.springer.com/chapter/10.1007%2F978-3-030-59722-1_40)</b>. <br>
 <b>Yutong Xie</b>, Jianpeng Zhang, Zhibin Liao, Chunhua Shen, Johan Verjans, and Yong Xia <br> <i>International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI 2020**).</i>(**Online oral**)<br> 
