@@ -25,6 +25,6 @@ Recently, I have been investigating semi-/weakly-/self-supervised deep learning 
 * [Sep 2020] One paper on 'SESV: Accurate Medical Image Segmentation by Predicting and Correcting Errors' is accepted to TMI.
 * [Sep 2020] Code of MB-DCNN is [available](https://github.com/YtongXie/MB-DCNN).
 * [July 2020] I am giving a talk at VALSE 2020 Student Webinar.
-* [Mar 2020] One paper on 'Pairwise Relation Learning for Semi-supervised Gland Segmentation' is accepted to MICCAI 2020.
+* [May 2020] One paper on 'Pairwise Relation Learning for Semi-supervised Gland Segmentation' is accepted to MICCAI 2020.
 * [Feb 2020] One paper on 'A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification' is accepted to TMI.
 
