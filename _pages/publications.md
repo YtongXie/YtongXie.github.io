@@ -3,9 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 ## 2020
-
 * <b>[SESV:Accurate Medical Image Segmentation by Predicting and Correcting Errors](https://ieeexplore.ieee.org/document/9201384)</b>. <br>
 <b>Yutong Xie*</b>, Jianpeng Zhang*, Hao Lu, Chunhua Shen, and Yong Xia <br> <i>IEEE Transactions on Medical Imaging (**IEEE-TMI**)</i>, early assess, 2020.<br>
 
