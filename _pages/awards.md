@@ -2,8 +2,8 @@
 permalink: /awards/
 author_profile: true
 ---
-* [Second prize](https://github.com/YtongXie/YtongXie.github.io/blob/master/files/ISICDM2020.jpg) of ISICDM 2020 Challenge on Lung Tissue Segmentation, 2020
-* [Honorable Mention](https://github.com/YtongXie/YtongXie.github.io/blob/master/files/Honorable%20Mention%20of%20MyoPS%202020.pdf) of MICCAI [MyoPS Challenge](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/MyoPS20/result.html) (Myocardial Pathology Segmentation Combining Multi-sequence CMR Challenge), 2020
+* Second prize of ISICDM 2020 Challenge on Lung Tissue Segmentation, 2020
+* Honorable Mention of MICCAI [MyoPS Challenge](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/MyoPS20/result.html) (Myocardial Pathology Segmentation Combining Multi-sequence CMR Challenge), 2020
 * Third Prize of 14th Excellent Academic Paper of Natural Science of Shaanxi Province, China, 2020
 * Second Prize of 7th Excellent Academic Paper of Shaanxi Province Anti-Cancer Association, China, 2019
 * Best Poster Presentation Award for PRCV 2019 Doctoral Students Forum, 2019 
