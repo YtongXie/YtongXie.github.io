@@ -11,7 +11,8 @@ Research Topics:
   - Chest/Abdomen/Brain/Skin/Gland/Eye
   - X-ray/CT/MRI/Dermoscopy/Pathology/Fundus/Report/Clinical data
 
-**<span style="color: #c00000;">[Note]</span>**:I will join the Computer Vision Department at <a href="https://mbzuai.ac.ae/">MBZUAI</a> in January 2025. I am actively seeking highly motivated Postdocs, PhD students, Master’s students, and interns/visiting students to join my group after January 2025. If you are interested in working with me on the topics mentioned above, please feel free to contact me at yutong.xie678@gmail.com using the following format:
+```
+**<span style="color: #c00000;">[Note]</span>**:I will join the Computer Vision Department at <a href="https://mbzuai.ac.ae/">MBZUAI</a> in January 2025. I am actively seeking highly motivated Postdocs, PhD students, Master’s students, and interns/visiting students to join my group after January 2025. If you are interested in working with me on the topics mentioned above, please feel free to contact me at **yutong.xie678@gmail.com** using the following format:
 
 - Please use Subject Line: "TermYouApply - Postdoc/PhD/MS/Intern - YourName" (e.g., Fall2025 - PhD - James)
 
@@ -20,3 +21,4 @@ Research Topics:
 - Attach your CV
 
 - I will review each email carefully, but please understand that due to the large volume of messages I receive, I may not be able to reply to everyone individually.
+```
