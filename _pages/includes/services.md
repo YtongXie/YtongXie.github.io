@@ -1,5 +1,4 @@
 # 🔆 Services
-
 #### Conference Area Chair:
 MICCAI 2023; MICCAI 2024.
 
