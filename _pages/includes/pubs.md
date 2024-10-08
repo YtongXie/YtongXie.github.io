@@ -1,6 +1,6 @@
 # 📝 Publications ($\dagger$: equal contributions; $\ast$: corresponding author)
 
-## 📝 Journal (Selective) 
+## Journal (Selective) 
 
 - ``IEEE-TPAMI 2024`` [UniMiSS+: Universal Medical Self-Supervised Learning From Cross-Dimensional Unpaired Data](https://ieeexplore.ieee.org/abstract/document/10617802), **Yutong Xie**, Jianpeng Zhang, Yong Xia, Qi Wu<sup>$\ast$</sup>. *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI). (Impact factor=20.8)* ***[Code](https://github.com/YtongXie/UniMiSS-code)***
 
@@ -44,7 +44,7 @@
 
 
 
-## 📝 Conference (Selective)
+## Conference (Selective)
 - `ACCV 2024` [Act Like a Radiologist: Radiology Report Generation across Anatomical Regions](https://arxiv.org/abs/2305.16685), Qi Chen<sup>$\dagger$</sup>, **Yutong Xie**<sup>$\dagger$</sup>, Biao Wu, Xiaomin Chen, James Ang, Minh-Son To, Xiaojun Chang, and Qi Wu<sup>$\ast$</sup>. ***[Code](https://github.com/YtongXie/X-RGen) (Oral, 17.4\% of accepted papers, 5.6\% of submitted papers)***
 
 - `MICCAI 2024` [Spot the Difference: Difference Visual Question Answering with Residual Alignment](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_61), Zilin Lu<sup>$\dagger$</sup>, **Yutong Xie**<sup>$\dagger$</sup>, Qingjie Zeng, Mengkang Lu, Qi Wu, and Yong Xia<sup>$\ast$</sup>. ***[Code](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_2) (Early Accept)***
