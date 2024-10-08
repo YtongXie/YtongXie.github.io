@@ -13,8 +13,6 @@
 - 2020, Honorable Mention of MICCAI 2020 MyoPS Challenge
 - 2020, Fourth prize of MICCAI 2020 Thyroid Nodule Segmentation Challenge
 - 2020, Outstanding Graduate Student Pacesetter (only 10 students selected from NPU)
-- 2019, First-class Scholarship for Outstanding Graduate student
 - 2018-2020, National Scholarship (top 1\% of students) (annually)
-- 2018, First-class Scholarship for Outstanding Graduate student
 - 2018, Academic Star of NPU (top 1\% of students)
 - 2016-2019, First-class Scholarship for Outstanding Graduate student (annually)
