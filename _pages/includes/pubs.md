@@ -75,7 +75,7 @@
 
 - `MICCAI 2023` [TPRO: Text-prompting-based Weakly Supervised Histopathology Tissue Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_11), Shaoteng Zhang, Jianpeng Zhang, **Yutong Xie**<sup>$\ast$</sup>, and Yong Xia<sup>$\ast$</sup>. ***[Code](https://github.com/zhangst431/TPRO) (Early Accept)***
 
-- `MICCAI 2023` [Transformer-based Annotation Bias-aware Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_3), Zehui Liao, Shishuai Hu, **Yutong Xie**<sup>*</sup>, and Yong Xia<sup>$\ast$</sup>. ***[Code](https://github.com/Merrical/TAB) (Early Accept)***
+- `MICCAI 2023` [Transformer-based Annotation Bias-aware Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_3), Zehui Liao, Shishuai Hu, **Yutong Xie**<sup>$\ast$</sup>, and Yong Xia<sup>$\ast$</sup>. ***[Code](https://github.com/Merrical/TAB) (Early Accept)***
 
 - `ECCV 2022` [UniMiSS: Universal Medical Self-Supervised Learning via Breaking Dimensionality Barrier](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_33), **Yutong Xie**, Jianpeng Zhang, Yong Xia, and Qi Wu<sup>$\ast$</sup>. ***[Code](https://github.com/YtongXie/UniMiSS-code)***
 
