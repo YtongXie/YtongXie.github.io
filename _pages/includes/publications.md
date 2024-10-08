@@ -1,5 +1,4 @@
 # 📝 Publications ($\dagger$: equal contributions; $\ast$: corresponding author)
-
 ## Journal (Selective) 
 
 - [![IEEE-TPAMI 2024](https://img.shields.io/badge/IEEE--TPAMI-2024-pink)](https://ieeexplore.ieee.org/abstract/document/10617802) [UniMiSS+: Universal Medical Self-Supervised Learning From Cross-Dimensional Unpaired Data](https://ieeexplore.ieee.org/abstract/document/10617802), **Yutong Xie**, Jianpeng Zhang, Yong Xia, Qi Wu<sup>$\ast$</sup>. *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI). (Impact factor=20.8)* ***[Code](https://github.com/YtongXie/UniMiSS-code)***
