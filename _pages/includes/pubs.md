@@ -3,9 +3,9 @@ $\dagger$: equal contributions; $*$: corresponding author
 
 ## 📝 Journal Publications (Selective)
 
-- `IEEE-TPAMI 2024` [UniMiSS+: Universal Medical Self-Supervised Learning From Cross-Dimensional Unpaired Data](https://ieeexplore.ieee.org/abstract/document/10617802), **Yutong Xie**, Jianpeng Zhang, Yong Xia, Qi Wu<sup>*</sup>. *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI). (Impact factor=20.8)* ***[Code](https://github.com/YtongXie/UniMiSS-code)***
+- ``IEEE-TPAMI 2024`` [UniMiSS+: Universal Medical Self-Supervised Learning From Cross-Dimensional Unpaired Data](https://ieeexplore.ieee.org/abstract/document/10617802), **Yutong Xie**, Jianpeng Zhang, Yong Xia, Qi Wu<sup>*</sup>. *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI). (Impact factor=20.8)* ***[Code](https://github.com/YtongXie/UniMiSS-code)***
 
-- `IEEE-TMI 2024` [Consistency-guided Differential Decoding for Enhancing Semi-supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10619990), Qingjie Zeng<sup>$\dagger$</sup>, **Yutong Xie**<sup>$\dagger$</sup>, Zilin Lu, Mengkang Lu, Jingfeng Zhang, and Yong Xia<sup>*</sup>. *IEEE Transactions on Medical Imaging (IEEE-TMI). (Impact factor=8.9)* ***[Code](https://github.com/maxwell0027/LeFeD)***
+- ``IEEE-TMI 2024`` [Consistency-guided Differential Decoding for Enhancing Semi-supervised Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10619990), Qingjie Zeng<sup>$\dagger$</sup>, **Yutong Xie**<sup>$\dagger$</sup>, Zilin Lu, Mengkang Lu, Jingfeng Zhang, and Yong Xia<sup>*</sup>. *IEEE Transactions on Medical Imaging (IEEE-TMI). (Impact factor=8.9)* ***[Code](https://github.com/maxwell0027/LeFeD)***
   
 - `Medical Image Analysis 2024` [ReFs: A Hybrid Pre-training Paradigm for 3D Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841523002839), **Yutong Xie**, Jianpeng Zhang, Lingqiao Liu, Hu Wang, Yiwen Ye, Johan Verjans, Yong Xia<sup>*</sup>. *Medical Image Analysis. (Impact factor=10.7)* 
 
