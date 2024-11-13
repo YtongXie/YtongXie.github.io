@@ -13,7 +13,7 @@
 - *2024.04*: We are organizing the MICCAI 2024 challenge on [Multi-class Brain Hemorrhage Segmentation in Non-contrast CT](https://mbh-seg.com/) <br>
 - *2024.04*: 🎉🎉🎉 I am very pleased to receive the CVPR DEI Grant to attend CVPR 2024. <br>
 - *2024.03*: 🎉🎉🎉 I will serve as an Area Chair at MICCAI 2024! <br>
-- *2024.02*: 🎉🎉🎉 Four papers on *medical vision-language learning, continual self-supervised learning, and DNN Interpretation* are accepted by CVPR 2024! <be>
+- *2024.02*: 🎉🎉🎉 Four papers on *medical vision-language learning, continual self-supervised learning, and DNN Interpretation* are accepted by CVPR 2024!
 
 <--
 - *2023.12*: 🎉🎉🎉 Privileged to obtain the CSIG Doctoral Dissertation Award (only 10 scholars selected from China)! Thanks to all my mentors! <br>
