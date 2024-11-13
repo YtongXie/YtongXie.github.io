@@ -15,7 +15,7 @@
 - *2024.03*: 🎉🎉🎉 I will serve as an Area Chair at MICCAI 2024! <br>
 - *2024.02*: 🎉🎉🎉 Four papers on *medical vision-language learning, continual self-supervised learning, and DNN Interpretation* are accepted by CVPR 2024!
 
-<--
+<!--
 - *2023.12*: 🎉🎉🎉 Privileged to obtain the CSIG Doctoral Dissertation Award (only 10 scholars selected from China)! Thanks to all my mentors! <br>
 - *2023.12*: 🎉🎉🎉 Our paper on *Multi-Annotator Medical Image Segmentation* is accepted by Medical Image Analysis! <br>
 - *2023.11*: 🎉🎉🎉 Our paper on *Hybrid Medical Image Pre-training* is accepted by Medical Image Analysis! <br>
