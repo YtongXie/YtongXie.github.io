@@ -3,7 +3,7 @@
 Yutong Xie is a Senior Research Fellow at the University of Adelaide (UoA), and a member of the Australian Institute for Machine Learning (AIML), working with A/Prof. <a href="http://qi-wu.me/">Qi Wu</a>. She obtained her Ph.D. in 2021 from NPU under the supervision of Prof. <a href="https://jszy.nwpu.edu.cn/en/yongxia.html">Yong Xia</a>. She has also spent about two years at UoA during her PhD studies, under the supervision of Prof. <a href="https://cshen.github.io/">Chunhua Shen</a> and A/Prof. <a href="https://researchers.adelaide.edu.au/profile/johan.verjans">Johan Verjans</a>. 
 
 
-My research primarily focuses on **computer vision and machine learning for healthcare sector**, aiming to develop intelligent solutions to assist healthcare professionals in anatomical structure segmentation, disease diagnosis, prognosis, and therapy, particularly in the context of medical data analysis with limited annotations. I have published more than 50 peer-reviewed publications, most in flagship journals/conference proceedings including IEEE-TPAMI/TMI/TIP, Medical Image Analysis, IEEE-TCSVT, MICCAI, CVPR, ECCV, IJCAI, ACCV.
+My research primarily focuses on **computer vision and machine learning for healthcare sector**, aiming to develop intelligent solutions to assist healthcare professionals in anatomical structure segmentation, disease diagnosis, prognosis, and therapy, particularly in the context of medical data analysis with limited annotations. I have published more than 50 peer-reviewed publications, most in flagship journals/conference proceedings including IEEE-TPAMI/TMI/TIP, IJCV, Medical Image Analysis, IEEE-TCSVT, MICCAI, CVPR, ECCV, IJCAI, ACCV.
 
 Research Topics:
 - Cutting-edge Technologies:
