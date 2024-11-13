@@ -1,6 +1,7 @@
 # 🔥 News
 <div style="max-height: 66px; overflow-y: auto;">
-  
+
+- *2024.10*: 🎉🎉🎉 Our paper on *Learning with Label Noise* is accepted by IJCV!
 - *2024.09*: 🎉🎉🎉 Our paper on *Radiology Report Generation across Anatomical Regions* is accepted by ACCV 2024 (Oral)!
 - *2024.09*: 🎉🎉🎉 I am very privileged to be selected as one of World's Top 2% Scientists 2024 in [Standford and Elsevier's report](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)!
 - *2024.08*: 🎉🎉🎉 Our paper on *Multi-modal Multi-label Skin Lesion Classification* is accepted by WACV 2024!
