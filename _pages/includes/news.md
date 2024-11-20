@@ -1,5 +1,5 @@
 # 🔥 News
-
+- *2024.11*: 🎉🎉🎉 Our survey paper on *Medical Vision-and-Language Applications and Their Techniques* is available [here](https://arxiv.org/pdf/2411.12195)! <br>
 - *2024.10*: 🎉🎉🎉 Our paper on *Learning with Label Noise* is accepted by IJCV! <br>
 - *2024.09*: 🎉🎉🎉 Our paper on *Radiology Report Generation across Anatomical Regions* is accepted by ACCV 2024 (Oral)! <br>
 - *2024.09*: 🎉🎉🎉 I am very privileged to be selected as one of World's Top 2% Scientists 2024 in [Standford and Elsevier's report](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)! <br>
