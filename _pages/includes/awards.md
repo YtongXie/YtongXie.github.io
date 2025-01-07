@@ -7,6 +7,24 @@
 - 2023, Outstanding Reviewer of CVPR 2023
 - 2022, Top 2% Scientists Worldwide, Stanford University
 - 2022, Distinguished Reviewer of IEEE-TMI
+- 2020-2021, Innovation Foundation for Doctor Dissertation (about 12,000$\$$)(PI).
+- 2020, Second prize of ISICDM 2020 Challenge on Lung Tissue Segmentation.
+- 2020, Honorable Mention of MICCAI 2020 MyoPS Challenge
+- 2020, Fourth prize of MICCAI 2020 Thyroid Nodule Segmentation Challenge
+- 2020, Outstanding Graduate Student Pacesetter
+- 2018-2020, National Scholarship (top 1% of students) (annually)
+- 2018, Academic Star (top 1% of students)
+- 2016-2019, First-class Scholarship for Outstanding Graduate student (annually)
+- 
+<!---
+- 2024, Top 2% Scientists Worldwide, Stanford University 
+- 2024, CVPR 2024 DEI travel grants
+- 2023, CSIG Doctoral Dissertation Award (only 10 scholars selected from China)
+- 2023, Top 2% Scientists Worldwide, Stanford University
+- 2023, Distinguished Reviewer of IEEE-TMI
+- 2023, Outstanding Reviewer of CVPR 2023
+- 2022, Top 2% Scientists Worldwide, Stanford University
+- 2022, Distinguished Reviewer of IEEE-TMI
 - 2022, Excellent Graduate Student of NPU (only 10 students selected from NPU)
 - 2020-2021, Innovation Foundation for Doctor Dissertation of NPU (about 12,000$\$$)(PI).
 - 2020, Second prize of ISICDM 2020 Challenge on Lung Tissue Segmentation.
@@ -16,3 +34,4 @@
 - 2018-2020, National Scholarship (top 1% of students) (annually)
 - 2018, Academic Star of NPU (top 1% of students)
 - 2016-2019, First-class Scholarship for Outstanding Graduate student (annually)
+-->
