@@ -15,7 +15,7 @@
 - 2018-2020, National Scholarship (top 1% of students) (annually)
 - 2018, Academic Star (top 1% of students)
 - 2016-2019, First-class Scholarship for Outstanding Graduate student (annually)
-- 
+  
 <!---
 - 2024, Top 2% Scientists Worldwide, Stanford University 
 - 2024, CVPR 2024 DEI travel grants
