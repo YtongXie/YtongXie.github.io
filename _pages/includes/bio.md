@@ -19,4 +19,4 @@ Research Topics:
   -  Chest/Abdomen/Brain/Skin/Gland/Eye/Oral regions
   -  X-ray/CT/MRI/Dermoscopy/Pathology/Fundus/Report/Clinical/Gene data
 
-**<span style="color: #c00000;">[Note]</span>**: **<span style="color: #850043;"> I am actively seeking highly motivated Postdocs, PhD students, Master’s students, and interns/visiting students to join my group. If you are interested in working with me on the topics mentioned above, please feel free to contact me via email and refer to this [link](https://docs.google.com/document/d/1txutJtrUrbcPUwztdut3d3HuAJ8q7iX3MK3rdRuVmFk/edit?usp=sharing) for further information.</span>**
+**<span style="color: #c00000;">[Note]</span>**: **<span style="color: #850043;"> I am actively seeking highly motivated PhD students, Master’s students, and interns/visiting students to join my group. If you are interested in working with me on the topics mentioned above, please feel free to contact me via email and refer to this [link](https://docs.google.com/document/d/1txutJtrUrbcPUwztdut3d3HuAJ8q7iX3MK3rdRuVmFk/edit?usp=sharing) for further information.</span>**
