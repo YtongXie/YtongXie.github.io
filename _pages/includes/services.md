@@ -9,7 +9,7 @@ AAAI 2025.
 #### Program Committee Member:
 ICML 2025, MIDL 2025, ACMMM 2025, ICLR 2024, NeurIPS 2023/2025, CVPR 2022/2023/2024, ICCV 2021/2023/2025, ECCV 2022/2024, AAAI 2020-2024, MICCAI 2019-2022, PRCV 2020, DICTA 2020, etc.
 
-#### Journal Reviews:
+#### Journal Reviewer:
 - Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Medical Imaging
 - Medical Image Analysis
