@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- 2025, ICLR 2025 Notable Reviewer
 - 2024, Top 2% Scientists Worldwide, Stanford University 
 - 2024, CVPR 2024 DEI travel grants
 - 2023, CSIG Doctoral Dissertation Award (only 10 scholars selected from China)
