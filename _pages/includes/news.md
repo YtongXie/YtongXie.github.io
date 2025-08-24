@@ -1,8 +1,9 @@
 # 🔥 News
 - *2025.08*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)** and One by **EMNLP 2025**! <br>
 - *2025.08*: 🎉🎉🎉 I will serve as an **Senior Program Committee** at AAAI 2025! <br>
-- *2025.05-06*: 🎉🎉🎉 One paper is accepted by **ACL 2025**, One by **MICCAI 2025** and One by **ICCV 2025 (Highlight)**! <br>
-- *2025.05*: 🎉🎉🎉 I am very pleased to be awarded as ICLR 2025 Notable Reviewers! <br>
+- *2025.06*: 🎉🎉🎉 One paper is accepted by **MICCAI 2025** and One by **ICCV 2025 (Highlight)**! <br>
+- *2025.05*: 🎉🎉🎉 One paper is accepted by **ACL 2025**! <br>
+- *2025.05*: 🎉🎉🎉 I am very pleased to be awarded as an **ICLR 2025 Notable Reviewer**! <br>
 - *2025.04*: 🎉🎉🎉 We are organizing the MICCAI 2025 challenge on [Multi-class Brain Hemorrhage Segmentation in Non-contrast CT](https://www.mbhseg.com/) <br>
 - *2025.03*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)**! <br>
 - *2025.02*: 🎉🎉🎉 I will serve as an **Area Chair** at MICCAI 2025! <br>
