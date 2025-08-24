@@ -1,6 +1,15 @@
 # 🔥 News
-- *2025.01*: 🎉🎉🎉 Our survey paper on *Advances in Attention Mechanisms for Medical Image Segmentation* is accepted by **Computer Science Review(IF=13.3)**! <br>
-- *2024.12*: 🎉🎉🎉 Our paper on *Semi-supervised Medical Image Segmentation* is accepted by **IJCV(IF=11.6)**! <br>
+- *2025.08*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)** and One by **EMNLP 2025**! <br>
+- *2025.08*: 🎉🎉🎉 I will serve as an **Senior Program Committee** at AAAI 2025! <br>
+- *2025.05-06*: 🎉🎉🎉 One paper is accepted by **ACL 2025**, One by **MICCAI 2025** and One by **ICCV 2025 (Highlight)**! <br>
+- *2025.05*: 🎉🎉🎉 I am very pleased to be awarded as ICLR 2025 Notable Reviewers! <br>
+- *2025.04*: 🎉🎉🎉 We are organizing the MICCAI 2025 challenge on [Multi-class Brain Hemorrhage Segmentation in Non-contrast CT](https://www.mbhseg.com/) <br>
+- *2025.03*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)**! <br>
+- *2025.02*: 🎉🎉🎉 I will serve as an **Area Chair** at MICCAI 2025! <br>
+- *2025.01*: 🎉🎉🎉 Our survey paper on *Advances in Attention Mechanisms for Medical Image Segmentation* is accepted by **Computer Science Review (IF=13.3)**! <br>
+- *2025.01*: 🎉🎉🎉 Two papers are accepted by **IJCV (IF=11.6)**! <br>
+
+<!--
 - *2024.11*: 🎉🎉🎉 Our survey paper on *Medical Vision-and-Language Applications and Their Techniques* is available [here](https://arxiv.org/pdf/2411.12195)! <br>
 - *2024.10*: 🎉🎉🎉 Our paper on *Learning with Label Noise* is accepted by **IJCV(IF=11.6)**! Paper is available [here](https://link.springer.com/article/10.1007/s11263-024-02299-x) <br>
 - *2024.09*: 🎉🎉🎉 Our paper on *Radiology Report Generation across Anatomical Regions* is accepted by **ACCV 2024 (Oral)**! <br>
@@ -16,8 +25,6 @@
 - *2024.04*: 🎉🎉🎉 I am very pleased to receive the **CVPR DEI Grant** to attend CVPR 2024. <br>
 - *2024.03*: 🎉🎉🎉 I will serve as an **Area Chair** at MICCAI 2024! <br>
 - *2024.02*: 🎉🎉🎉 Four papers on *medical vision-language learning, continual self-supervised learning, and DNN Interpretation* are accepted by **CVPR 2024**!
-
-<!--
 - *2023.12*: 🎉🎉🎉 Privileged to obtain the CSIG Doctoral Dissertation Award (only 10 scholars selected from China)! Thanks to all my mentors! <br>
 - *2023.12*: 🎉🎉🎉 Our paper on *Multi-Annotator Medical Image Segmentation* is accepted by Medical Image Analysis! <br>
 - *2023.11*: 🎉🎉🎉 Our paper on *Hybrid Medical Image Pre-training* is accepted by Medical Image Analysis! <br>
