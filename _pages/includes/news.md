@@ -1,5 +1,6 @@
 # 🔥 News
-- *2025.08*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)** and One by **EMNLP 2025**! <br>
+- *2025.08*: 🎉🎉🎉 Two papers are accepted by **NeurIPS 2025**! Congrats Yanyuan and Liang! <br>
+- *2025.08*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)** and One by **EMNLP 2025**! Congrats Qingjie and Xiao! <br>
 - *2025.08*: 🎉🎉🎉 I will serve as an **Senior Program Committee** at AAAI 2026! <br>
 - *2025.06*: 🎉🎉🎉 One paper is accepted by **MICCAI 2025** and One by **ICCV 2025 (Highlight)**! <br>
 - *2025.05*: 🎉🎉🎉 One paper is accepted by **ACL 2025**! <br>
