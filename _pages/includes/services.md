@@ -9,6 +9,9 @@ AAAI 2026.
 #### Program Committee Member:
 ICML 2025, MIDL 2025, ACMMM 2025, ICLR 2024, NeurIPS 2023/2025, CVPR 2022/2023/2024, ICCV 2021/2023/2025, ECCV 2022/2024, AAAI 2020-2024, MICCAI 2019-2022, PRCV 2020, DICTA 2020, etc.
 
+#### Journal Associate Editor:
+- Visual Intelligence
+
 #### Journal Reviewer:
 - Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Medical Imaging
@@ -16,6 +19,7 @@ ICML 2025, MIDL 2025, ACMMM 2025, ICLR 2024, NeurIPS 2023/2025, CVPR 2022/2023/2
 - IEEE Transactions on Artificial Intelligence
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Journal of Biomedical and Health Informatics
+- npj Digital Medicine
 - Scientific Reports
 - Pattern Recognition
 - etc
