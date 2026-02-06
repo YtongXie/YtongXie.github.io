@@ -110,10 +110,11 @@ h1:before, .anchor:before {
 
 
 .news-scroll{
-  height: 220px;
+  height: 260px;          /* 你想要的窗口高度 */
   overflow-y: auto;
   overflow-x: hidden;
-  padding: 12px 14px;
+
+  padding: 0;             /* 关键：别加 padding，避免破坏主题的排版 */
   border: 1px solid #e5e5e5;
   border-radius: 10px;
   background: #fff;
