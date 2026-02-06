@@ -12,7 +12,13 @@ redirect_from:
 
 {% include_relative includes/bio.md %}
   
+{% capture news_content %}
 {% include_relative includes/news.md %}
+{% endcapture %}
+
+<div class="news-scroll">
+  {{ news_content | markdownify }}
+</div>
 
 {% include_relative includes/publications.md %}
 
