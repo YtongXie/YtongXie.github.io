@@ -120,13 +120,3 @@ h1:before, .anchor:before {
   background: #fff;
 }
 
-/* 1. 压掉 News 标题顶部的巨大空白 */
-.news-scroll h1 {
-  margin-top: 0rem;     /* 原来大约 1.5~2rem */
-}
-
-/* 2. 压掉标题和第一条 news 之间的距离 */
-.news-scroll h1 + ul {
-  margin-top: 0rem;
-}
-
