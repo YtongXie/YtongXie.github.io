@@ -113,9 +113,8 @@ h1:before, .anchor:before {
   height: 260px;          /* 你想要的窗口高度 */
   overflow-y: auto;
   overflow-x: hidden;
-    
   padding: 0;             /* 关键：别加 padding，避免破坏主题的排版 */
-  border: 0px solid #e5e5e5;
+  border: none;
   border-radius: 10px;
   background: #fff;
 }
