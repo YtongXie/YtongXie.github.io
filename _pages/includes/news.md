@@ -1,20 +1,24 @@
 # 🔥 News
-
+- *2026.02*: 🎉🎉🎉 I am very pleased to be awarded as an **AAAI-26 Senior Program Committee Outstanding Service Award**! <br>
+- *2026.02*: 🎉🎉🎉 We are now accepting submissions for our [**CVPR2026 CV4Clinical workshop**](https://cv4clinical.github.io/cv4clinical_2026/)! <br>
+- *2026.01*: 🎉🎉🎉 One dataset paper on *Oral Squamous Cell Carcinoma* is accepted by **Scientific Data (Nature Portfolio)**! Congrats Jinquan! Paper is available [here](https://arxiv.org/abs/2507.16360)! <br>
+- *2026.01*: 🎉🎉🎉 One paper is accepted by **ICLR 2026** and One by **ICASSP 2026**! Congrats Yulong and Sinuo! <br>
+- *2025.12*: 🎉🎉🎉 Our **workshop proposal** for Bridging AI and Medical Reality is accepted by **CVPR 2026**! <br>
+- *2025.12*: 🎉🎉🎉 I will serve as an **Area Chair** at ECCV 2026! <br>
+- *2025.10*: 🎉🎉🎉 One paper is accepted by **Pattern Recognition (IF=7.6)**! and Two papers are accepted by **DICTA 2025 (oral)**! Congrats Chaohan and Yuming! <br>
 - *2025.09*: 🎉🎉🎉 Two papers are accepted by **NeurIPS 2025**! Congrats Yanyuan and Liang! <br>
 - *2025.08*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)** and One by **EMNLP 2025**! Congrats Qingjie and Xiao! <br>
 - *2025.08*: 🎉🎉🎉 I will serve as an **Senior Program Committee** at AAAI 2026! <br>
 - *2025.06*: 🎉🎉🎉 One paper is accepted by **MICCAI 2025** and One by **ICCV 2025 (Highlight)**! <br>
 - *2025.05*: 🎉🎉🎉 One paper is accepted by **ACL 2025**! <br>
 - *2025.05*: 🎉🎉🎉 I am very pleased to be awarded as an **ICLR 2025 Notable Reviewer**! <br>
-- *2025.04*: 🎉🎉🎉 We are organizing the MICCAI 2025 challenge on [Multi-class Brain Hemorrhage Segmentation in Non-contrast CT](https://www.mbhseg.com/) <br>
+- *2025.04*: 🎉🎉🎉 We are organizing the MICCAI 2025 challenge on [Multi-class Brain Hemorrhage Segmentation in Non-contrast CT](https://www.mbhseg.com/)! <br>
 - *2025.03*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)**! <br>
 - *2025.02*: 🎉🎉🎉 I will serve as an **Area Chair** at MICCAI 2025! <br>
 - *2025.01*: 🎉🎉🎉 Our survey paper on *Advances in Attention Mechanisms for Medical Image Segmentation* is accepted by **Computer Science Review (IF=13.3)**! <br>
 - *2025.01*: 🎉🎉🎉 Two papers are accepted by **IJCV (IF=11.6)**! <br>
-  
-<!--
 - *2024.11*: 🎉🎉🎉 Our survey paper on *Medical Vision-and-Language Applications and Their Techniques* is available [here](https://arxiv.org/pdf/2411.12195)! <br>
-- *2024.10*: 🎉🎉🎉 Our paper on *Learning with Label Noise* is accepted by **IJCV(IF=11.6)**! Paper is available [here](https://link.springer.com/article/10.1007/s11263-024-02299-x) <br>
+- *2024.10*: 🎉🎉🎉 Our paper on *Learning with Label Noise* is accepted by **IJCV(IF=11.6)**! Paper is available [here](https://link.springer.com/article/10.1007/s11263-024-02299-x)! <br>
 - *2024.09*: 🎉🎉🎉 Our paper on *Radiology Report Generation across Anatomical Regions* is accepted by **ACCV 2024 (Oral)**! <br>
 - *2024.09*: 🎉🎉🎉 I am very privileged to be selected as one of World's Top 2% Scientists 2024 in [Standford and Elsevier's report](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)! <br>
 - *2024.08*: 🎉🎉🎉 Our paper on *Multi-modal Multi-label Skin Lesion Classification* is accepted by **WACV 2024**! <br>
@@ -22,16 +26,15 @@
 - *2024.07*: 🎉🎉🎉 Our ECCV 2022 extension paper -- *UniMiSS+* is accepted by **IEEE-TPAMI(IF=20.8)**! <br>
 - *2024.07*: 🎉🎉🎉 Our *TransUNet* paper is accepted by **Medical Image Analysis(IF=10.7)**! <br>
 - *2024.07*: 🎉🎉🎉 Our paper on *Semi-supervised Medical Image Segmentation* is accepted by **IEEE-TMI(IF=8.9)**! <br>
-- *2024.06*: 🎉🎉🎉 Four papers are accepted by **MICCAI 2024**! (Three of them are early accepted) <br>
-- *2024.05*: We are organizing the ACM MM 2024 challenge on [Multi-rater Medical Image Segmentation for Radiotherapy Planning](https://mmis2024.com/) <br>
-- *2024.04*: We are organizing the MICCAI 2024 challenge on [Multi-class Brain Hemorrhage Segmentation in Non-contrast CT](https://mbh-seg.com/) <br>
-- *2024.04*: 🎉🎉🎉 I am very pleased to receive the **CVPR DEI Grant** to attend CVPR 2024. <br>
+- *2024.06*: 🎉🎉🎉 Four papers are accepted by **MICCAI 2024**! (Three of them are early accepted)! <br>
+- *2024.05*: We are organizing the ACM MM 2024 challenge on [Multi-rater Medical Image Segmentation for Radiotherapy Planning](https://mmis2024.com/)! <br>
+- *2024.04*: We are organizing the MICCAI 2024 challenge on [Multi-class Brain Hemorrhage Segmentation in Non-contrast CT](https://mbh-seg.com/)! <br>
+- *2024.04*: 🎉🎉🎉 I am very pleased to receive the **CVPR DEI Grant** to attend CVPR 2024! <br>
 - *2024.03*: 🎉🎉🎉 I will serve as an **Area Chair** at MICCAI 2024! <br>
-- *2024.02*: 🎉🎉🎉 Four papers on *medical vision-language learning, continual self-supervised learning, and DNN Interpretation* are accepted by **CVPR 2024**!
-- *2023.12*: 🎉🎉🎉 Privileged to obtain the CSIG Doctoral Dissertation Award (only 10 scholars selected from China)! Thanks to all my mentors! <br>
-- *2023.12*: 🎉🎉🎉 Our paper on *Multi-Annotator Medical Image Segmentation* is accepted by Medical Image Analysis! <br>
-- *2023.11*: 🎉🎉🎉 Our paper on *Hybrid Medical Image Pre-training* is accepted by Medical Image Analysis! <br>
+- *2024.02*: 🎉🎉🎉 Four papers on *medical vision-language learning, continual self-supervised learning, and DNN Interpretation* are accepted by **CVPR 2024**! <br>
+- *2023.12*: 🎉🎉🎉 Privileged to obtain the **CSIG Doctoral Dissertation Award** (only 10 scholars selected from China)! Thanks to all my mentors! <br>
+- *2023.12*: 🎉🎉🎉 Our paper on *Multi-Annotator Medical Image Segmentation* is accepted by **Medical Image Analysis**! <br>
+- *2023.11*: 🎉🎉🎉 Our paper on *Hybrid Medical Image Pre-training* is accepted by **Medical Image Analysis**! <br>
 - *2023.10*: 🎉🎉🎉 I am very privileged to be selected as one of World's Top 2% Scientists 2023 in [Standford and Elsevier's report](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)! <be>
-- *2023.08*: 🎉🎉🎉 Our CVPR 2021 extension paper -- *TransDoDNet* is accepted by IEEE-TPAMI <br>
-- *2023.06*: 🎉🎉🎉 Six papers are accepted by MICCAI 2023! (Three of them are early accepted) <be>
--->
+- *2023.08*: 🎉🎉🎉 Our CVPR 2021 extension paper -- *TransDoDNet* is accepted by **IEEE-TPAMI(IF=20.8)**! <br>
+- *2023.06*: 🎉🎉🎉 Six papers are accepted by **MICCAI 2023**! (Three of them are early accepted)! <be>
