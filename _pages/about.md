@@ -13,7 +13,9 @@ redirect_from:
 {% include_relative includes/bio.md %}
 
 <div class="news-scroll">
+  
 {% include_relative includes/news.md %}
+
 </div>
 
 {% include_relative includes/publications.md %}
