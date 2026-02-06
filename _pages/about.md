@@ -12,8 +12,8 @@ redirect_from:
 
 {% include_relative includes/bio.md %}
 
-<div style="max-height:320px; overflow-y:auto; overflow-x:hidden; border:1px solid #e5e5e5; border-radius:8px; padding-right:10px;">
-  {% include_relative includes/news.md %}
+<div class="news-scroll">
+{% include_relative includes/news.md %}
 </div>
 
 {% include_relative includes/publications.md %}
