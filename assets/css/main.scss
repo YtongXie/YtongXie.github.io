@@ -116,7 +116,7 @@ h1:before, .anchor:before {
     padding-top: 0;
     
   padding: 0;             /* 关键：别加 padding，避免破坏主题的排版 */
-  border: 1px solid #e5e5e5;
+  border: 0px solid #e5e5e5;
   border-radius: 10px;
   background: #fff;
 }
