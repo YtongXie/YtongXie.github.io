@@ -1,4 +1,5 @@
 # 🔥 News
+<div class="news-scroll">
 - *2025.09*: 🎉🎉🎉 Two papers are accepted by **NeurIPS 2025**! Congrats Yanyuan and Liang! <br>
 - *2025.08*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)** and One by **EMNLP 2025**! Congrats Qingjie and Xiao! <br>
 - *2025.08*: 🎉🎉🎉 I will serve as an **Senior Program Committee** at AAAI 2026! <br>
@@ -10,6 +11,7 @@
 - *2025.02*: 🎉🎉🎉 I will serve as an **Area Chair** at MICCAI 2025! <br>
 - *2025.01*: 🎉🎉🎉 Our survey paper on *Advances in Attention Mechanisms for Medical Image Segmentation* is accepted by **Computer Science Review (IF=13.3)**! <br>
 - *2025.01*: 🎉🎉🎉 Two papers are accepted by **IJCV (IF=11.6)**! <br>
+</div>
 
 <!--
 - *2024.11*: 🎉🎉🎉 Our survey paper on *Medical Vision-and-Language Applications and Their Techniques* is available [here](https://arxiv.org/pdf/2411.12195)! <br>
