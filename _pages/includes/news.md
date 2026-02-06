@@ -1,16 +1,16 @@
-### 🔥 News
+# 🔥 News
 
-- **2025.09**: 🎉🎉 Two papers are accepted by **NeurIPS 2025**! Congrats Yanyuan and Liang!
-- **2025.08**: 🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)** and one by **EMNLP 2025**! Congrats Qingjie and Xiao!
-- **2025.08**: 🎉🎉 I will serve as **Senior Program Committee** at AAAI 2026!
-- **2025.06**: 🎉🎉 One paper is accepted by **MICCAI 2025** and one by **ICCV 2025 (Highlight)**!
-- **2025.05**: 🎉🎉 One paper is accepted by **ACL 2025**!
-- **2025.05**: 🎉🎉 I am very pleased to be awarded as an **ICLR 2025 Notable Reviewer**!
-- **2025.04**: 🎉🎉 We are organizing the MICCAI 2025 challenge on [Multi-class Brain Hemorrhage Segmentation in Non-contrast CT](https://www.mbhseg.com/)
-- **2025.03**: 🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)**!
-- **2025.02**: 🎉🎉 I will serve as an **Area Chair** at MICCAI 2025!
-- **2025.01**: 🎉🎉 Our survey paper on *Advances in Attention Mechanisms for Medical Image Segmentation* is accepted by **Computer Science Review (IF=13.3)**!
-- **2025.01**: 🎉🎉 Two papers are accepted by **IJCV (IF=11.6)**!
+- *2025.09*: 🎉🎉🎉 Two papers are accepted by **NeurIPS 2025**! Congrats Yanyuan and Liang! <br>
+- *2025.08*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)** and One by **EMNLP 2025**! Congrats Qingjie and Xiao! <br>
+- *2025.08*: 🎉🎉🎉 I will serve as an **Senior Program Committee** at AAAI 2026! <br>
+- *2025.06*: 🎉🎉🎉 One paper is accepted by **MICCAI 2025** and One by **ICCV 2025 (Highlight)**! <br>
+- *2025.05*: 🎉🎉🎉 One paper is accepted by **ACL 2025**! <br>
+- *2025.05*: 🎉🎉🎉 I am very pleased to be awarded as an **ICLR 2025 Notable Reviewer**! <br>
+- *2025.04*: 🎉🎉🎉 We are organizing the MICCAI 2025 challenge on [Multi-class Brain Hemorrhage Segmentation in Non-contrast CT](https://www.mbhseg.com/) <br>
+- *2025.03*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=9.8)**! <br>
+- *2025.02*: 🎉🎉🎉 I will serve as an **Area Chair** at MICCAI 2025! <br>
+- *2025.01*: 🎉🎉🎉 Our survey paper on *Advances in Attention Mechanisms for Medical Image Segmentation* is accepted by **Computer Science Review (IF=13.3)**! <br>
+- *2025.01*: 🎉🎉🎉 Two papers are accepted by **IJCV (IF=11.6)**! <br>
   
 <!--
 - *2024.11*: 🎉🎉🎉 Our survey paper on *Medical Vision-and-Language Applications and Their Techniques* is available [here](https://arxiv.org/pdf/2411.12195)! <br>
