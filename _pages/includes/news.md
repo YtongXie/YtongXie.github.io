@@ -1,6 +1,6 @@
 # 🔥 News
 - *2026.02*: 🎉🎉🎉 I am very pleased to be awarded as an **AAAI-26 Senior Program Committee Outstanding Service Award**! <br>
-- *2026.02*: 🎉🎉🎉 We are now accepting submissions for our [**CVPR2026 CV4Clinical workshop**](https://cv4clinical.github.io/cv4clinical_2026/)! <br>
+- *2026.02*: We are now accepting submissions for our [**CVPR2026 CV4Clinical workshop**](https://cv4clinical.github.io/cv4clinical_2026/)! <br>
 - *2026.01*: 🎉🎉🎉 One dataset paper on *Oral Squamous Cell Carcinoma* is accepted by **Scientific Data (Nature Portfolio)**! Congrats Jinquan! Paper is available [here](https://arxiv.org/abs/2507.16360)! <br>
 - *2026.01*: 🎉🎉🎉 One paper is accepted by **ICLR 2026** and One by **ICASSP 2026**! Congrats Yulong and Sinuo! <br>
 - *2025.12*: 🎉🎉🎉 Our **workshop proposal** for Bridging AI and Medical Reality is accepted by **CVPR 2026**! <br>
