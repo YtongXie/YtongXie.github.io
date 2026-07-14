@@ -1,4 +1,4 @@
-# 📝 Publications 
+# 📝 Publications (Full Publications are [Here](https://scholar.google.com/citations?user=ddDL9HMAAAAJ&hl=zh-CN))
 **$\dagger$: equal contributions; $\ast$: corresponding author** 
 ## Journal (Selective) 
 
@@ -34,9 +34,9 @@
 
 - [![Information Fusion 2018](https://img.shields.io/badge/Information%20Fusion-2018-pink)](https://www.sciencedirect.com/science/article/pii/S1566253516301063) [Fusing Texture, Shape and Deep Model-learned Information at Decision Level for Automated Classification of Lung Nodules on Chest CT](https://www.sciencedirect.com/science/article/pii/S1566253516301063), **Yutong Xie**, Jianpeng Zhang, Yong Xia<sup>$\ast$</sup>, Fulham Michael, and Yanning Zhang. *Information Fusion. (Impact factor=14.7) ***(Third prize of the 14th Excellent Academic Paper of Natural Science of Shaanxi Province, China)***
 
+<!---
 - [![IEEE-JBHI 2018](https://img.shields.io/badge/IEEE--JBHI-2018-pink)](https://ieeexplore.ieee.org/document/8115141) [Classification of Medical Images in Biomedical Literature by Jointly Using Deep and Handcrafted Visual Features](https://ieeexplore.ieee.org/document/8115141), Jianpeng Zhang, Yong Xia<sup>$\ast$</sup>, **Yutong Xie**, Michael Fulham, and David Dagan Feng. *IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI). (Impact factor=6.7)*
 
-<!---
 - `Head & Neck 2023` [Prediction of Postoperative Recurrence of Oral Cancer by Artificial Intelligence Model: Multilayer Perceptron](https://onlinelibrary.wiley.com/doi/full/10.1002/hed.27533), Yongkang Cai<sup>$\dagger$</sup>, **Yutong Xie**<sup>$\dagger$</sup>, Shulian Zhang, Yuepeng Wang, Yan Wang, Jian Chen, Zhiquan Huang. *Head & Neck*.
 
 - `IEEE-TCSVT 2023` [Multi-Granularity Aggregation Transformer for Joint Video-Audio-Text Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9966612), Mengge He, Wenjing Du, Zhiquan Wen, Qing Du, **Yutong Xie**, and Qi Wu. *IEEE Transactions on Circuits and Systems for Video Technology (IEEE-TCSVT). (Impact factor=8.3)*
