@@ -7,16 +7,15 @@ Yutong Xie is an Assistant Professor of the Computer Vision Department at <a hre
 She obtained her PhD in 2021 from NPU under the supervision of Prof. <a href="https://jszy.nwpu.edu.cn/en/yongxia.html">Yong Xia</a>. She has also spent about two years at UoA during her PhD studies, under the supervision of Prof. <a href="https://cshen.github.io/">Chunhua Shen</a> and A/Prof. <a href="https://researchers.adelaide.edu.au/profile/johan.verjans">Johan Verjans</a>. 
 -->
 
-My research primarily focuses on **computer vision and machine learning for healthcare sector**, aiming to develop intelligent solutions to assist healthcare professionals in anatomical structure segmentation, disease diagnosis, prognosis, and therapy, particularly in the context of medical data analysis with limited annotations. I have published more than 60 peer-reviewed publications, most in flagship journals/conference proceedings including IEEE-TPAMI/TMI/TIP, IJCV, Medical Image Analysis, MICCAI, CVPR, ICCV, ECCV, NeurIPS, ACL, EMNLP.
+My research primarily focuses on **computer vision and machine learning for healthcare sector**, aiming to develop intelligent solutions to assist healthcare professionals in anatomical structure segmentation, disease diagnosis, prognosis, and therapy, particularly in the context of medical data analysis with limited annotations. I have published more than 60 peer-reviewed publications, most in flagship journals/conference proceedings including IEEE-TPAMI/TMI/TIP, IJCV, Medical Image Analysis, MICCAI, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, ACL, EMNLP.
 
 Research Topics:
 - Cutting-edge Technologies:
   -  Annotation-efficient deep learning & Self-/Semi-/Weak-supervised learning
-  -  Multi-modal learning (2D/3D images/text/gene data) & Foundation model
-  -  Large Language Model (LLM) & Agents
-  -  Artificial Intelligence Generated Content (AIGC)
+  -  Multi-modal learning (e.g., 2D/3D images/text/longitudinal data) & Foundation model & MLLM
+  -  Trustworthy AI for healthcare
 - Medical Image Segmentation & Computer-Aided Diagnosis/Prognosis:
   -  Chest/Abdomen/Brain/Skin/Gland/Eye/Oral regions
-  -  X-ray/CT/MRI/Dermoscopy/Pathology/Fundus/Report/Clinical/Gene data
+  -  X-ray/CT/MRI/Dermoscopy/Pathology/Fundus/Report/Clinical data
 
 **<span style="color: #c00000;">[Note]</span>**: **<span style="color: #850043;"> I am actively seeking highly motivated PhD students, Master’s students, and interns/visiting students to join my group. If you are interested in working with me on the topics mentioned above, please feel free to contact me via email and refer to this [link](https://docs.google.com/document/d/1txutJtrUrbcPUwztdut3d3HuAJ8q7iX3MK3rdRuVmFk/edit?usp=sharing) for further information.</span>**
