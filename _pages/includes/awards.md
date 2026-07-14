@@ -1,5 +1,6 @@
 # 🎖 Honors and Awards
 - 2026, AAAI-26 Senior Program Committee Outstanding Service Award
+- 2026, Best Presentation Award of ISBI 2026 FMC_UIA Challenge
 - 2025, ICLR 2025 Notable Reviewer
 - 2022-2025, Top 2% Scientists Worldwide, Stanford University
 - 2024, CVPR 2024 DEI travel grants
