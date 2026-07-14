@@ -1,6 +1,6 @@
 # 🔥 News
 - *2026.07*: 🎉🎉🎉 Our survey paper on *[Medical Vision-and-Language Applications and Their Techniques](https://arxiv.org/pdf/2411.12195)* is accepted by **IJCV (IF=10.3)**! Congrats collaborators! <br>
-- *2026.06*: 🎉🎉🎉 I will serve as an **Area Chair** at WACV 2027 and NeurIPS 2026, and an **Senior Program Committee** at AAAI 2027! <br>
+- *2026.06*: 🎉🎉🎉 I will serve as an **Area Chair** at WACV 2027 and NeurIPS 2026, and a **Senior Program Committee** at AAAI 2027! <br>
 - *2026.06*: 🎉🎉🎉 Papers on *Tumor Survival Analysis*, *Longitudinal Medical Data Modeling*, *[Multi-Rater Few-Shot Medical Image Segmentation](https://arxiv.org/pdf/2606.16325)*, and *Robustness of Surgical VLMs* are accepted by **MICCAI 2026** after rebuttal! Congrats Jinquan, Wanqi, Yuming, Truong, Khoi, Darakshan, and collaborators! <br>
 - *2026.05*: 🎉🎉🎉 One paper is accepted by **ICML 2026** and Papers on *[ClinicalCoT](https://arxiv.org/pdf/2603.01124)*, *[Polyp Segmentation](https://arxiv.org/pdf/2602.22821)*, and *Fairness in Medical Foundation Models* are accepted by **MICCAI 2026 (Early Accept)**! Congrats Xiwei, Tong, Yuchen, Sinuo, and collaborators! <br>
 - *2026.04*: 🎉🎉🎉 One paper on *[MedicalVLP](https://aclanthology.org/2026.acl-long.113/)* is accepted by **ACL 2026 main (oral)** and One by **ACL 2026 findings**! Congrats Biao, Jianghao, and collaborators! <br>
@@ -15,7 +15,7 @@
 - *2025.10*: 🎉🎉🎉 One paper is accepted by **Pattern Recognition (IF=9.1)**! and Two papers are accepted by **DICTA 2025 (oral)**! Congrats Chaohan, Yuming, and collaborators! <br>
 - *2025.09*: 🎉🎉🎉 Two papers are accepted by **NeurIPS 2025**! Congrats Yanyuan, Liang, and collaborators! <br>
 - *2025.08*: 🎉🎉🎉 One paper is accepted by **IEEE-TMI (IF=12.4)** and One by **EMNLP 2025**! Congrats Qingjie, Xiao, and collaborators! <br>
-- *2025.08*: 🎉🎉🎉 I will serve as an **Senior Program Committee** at AAAI 2026! <br>
+- *2025.08*: 🎉🎉🎉 I will serve as a **Senior Program Committee** at AAAI 2026! <br>
 - *2025.06*: 🎉🎉🎉 One paper is accepted by **MICCAI 2025** and One by **ICCV 2025 (Highlight)**! <br>
 - *2025.05*: 🎉🎉🎉 One paper is accepted by **ACL 2025**! <br>
 - *2025.05*: 🎉🎉🎉 I am very pleased to be awarded as an **ICLR 2025 Notable Reviewer**! <br>
