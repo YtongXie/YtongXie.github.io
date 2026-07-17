@@ -26,4 +26,7 @@ redirect_from:
 
 {% include_relative includes/awards.md %}
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=vgHAM2_bgXRzfvGbngV2UyR8zpDwmIGrUzOTC-UiWVI&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=BAeOTFYXai4oZ2MSdZ418T6NMI1viqcdpK71zLd6edU"></script>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=f4f4f4&w=300&t=n&d=v8UxswgHWuwHnWQprnMhxroGwaIwImX60ACfv3hW7sI&co=86b7c1&cmo=6982ff&cmn=ff69a0&ct=020000'></script>
+
